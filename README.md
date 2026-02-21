@@ -218,7 +218,7 @@ The Competencies and META Skills I'm teaching aren't theoretical - they're the h
 
 ---
 
-## Why [AISidesKicks.fyi](https://AISidesKicks.fyi)
+## Why [AHA.AISidesKicks.fyi](https://AHA.AISidesKicks.fyi)
 
 ### The **Side Kick** inspiration?
 
