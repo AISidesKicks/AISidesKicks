@@ -220,13 +220,13 @@ The Competencies and META Skills I'm teaching aren't theoretical - they're the h
 
 ## Why [AISidesKicks.fyi](https://AISidesKicks.fyi)
 
-### The **Side Kick// inspiration?
+### The **Side Kick** inspiration?
 
 The **Side Kick** is a fundamental technique in kickboxing that combines strength, balance, and coordination. It's not the flashy knockout punch. It's the reliable, technical move that keeps you in the fight.
 
-In team sports, the best players aren’t the solo heroes but the ones who make everyone around them better — the true sidekicks who turn individual effort into collective momentum.
+In team sports, the best players aren’t the solo heroes but the ones who make everyone around them better — the true **sidekicks** who turn individual effort into collective momentum.
 
-In cooking, a "sidekick" refers to dishes that complement the main course. Not the star, but the thing that makes the star look good. Garlic bread knows its place.
+In cooking, a **sidekick** refers to dishes that complement the main course. Not the star, but the thing that makes the star look good. Garlic bread knows its place.
 
 So what are **AI Sidekicks**? Your technical partners that won't steal the spotlight but will absolutely save your bacon when the main event goes sideways.
 
@@ -240,6 +240,6 @@ Because AI always wants to give you more than you asked for. One sidekick? Cute.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
