@@ -74,20 +74,20 @@ Test (SBE + EDD) and (BDD + TDD) today yourself on modern 200K GenAI model, IT W
 Models can now use 65% - 75% of 200K context nearly **CONSTANTLY**, so speed now matters - attention optimized models like MiniMax m2.5 make this approach snappier.
 
 And YEAH more *much much much more* tokens are burned in the process [Jevons paradox in practice](https://en.wikipedia.org/wiki/Jevons_paradox):
-- "Is it worth it in the end?"
-- "If we are not creating the equivalent of docs for humans, but just in an AI world?"
+- Is it worth it in the end?
+- If we are not creating the equivalent of docs for humans, but just in an AI world?
 
 *Thanks to fortune, some powerful models with smarter 200K context are now FREE to use - so everybody has a chance to actively explore it.* 
 
-# **DO IT JUST NOW!**
+## **DO IT JUST NOW!**
 
 ---
 
-# What Competencies and META Skills would I like to HAVE at hand?
+# What Competencies and META Skills would I like to HAVE?
 
 ## 🧠 9 Competencies and META Skills for AI Companion Assistants
 
-These are the foundational capabilities I'm teaching my AI Companion Assistants,  the skills that separate competent execution from engineering excellence:
+These are the foundational capabilities I'm teaching my AI Companion Assistants, the skills that separate competent execution from engineering excellence:
 
 ```
 0. COMMUNICATIONS (It's truly HIDDEN now)
@@ -218,7 +218,9 @@ The Competencies and META Skills I'm teaching aren't theoretical - they're the h
 
 ---
 
-## Why AISidesKicks.fyi
+## Why [AISidesKicks.fyi](https://AISidesKicks.fyi)
+
+### The **Side Kick// inspiration?
 
 The **Side Kick** is a fundamental technique in kickboxing that combines strength, balance, and coordination. It's not the flashy knockout punch. It's the reliable, technical move that keeps you in the fight.
 
