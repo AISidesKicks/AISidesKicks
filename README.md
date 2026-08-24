@@ -8,7 +8,7 @@ It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com
 
 ## I know how to do my job.
 
-**AI doesn't! PERIOD!!!**
+## AI doesn't! PERIOD!!!
 
 ### Well:
 
