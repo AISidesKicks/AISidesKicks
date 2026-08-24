@@ -12,7 +12,7 @@ It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com
 
 ### Well:
 
-As AI gets better and better at code - code it can check by itself - the harnesses keep improving themselves. This builds a self-improving [RSI](https://en.wikipedia.org/wiki/Recursive_self-improvement) loop that extends beyond code, into Infra and Integrations too.
+As AI gets better and better at code, the AI harnesses keep improving themselves and code can be checked by itself. This builds a self-improving [RSI](https://en.wikipedia.org/wiki/Recursive_self-improvement) loop that extends beyond code, into Infra and Integrations too.
 
 But for now they do it in a naive, messy, not caring way, because they live in labs with siloed environments, not real enterprise ones - this can potentially encourage [reward hacking](https://en.wikipedia.org/wiki/Reward_hacking).
 
@@ -32,9 +32,9 @@ Now I'm using that hard-won experience to nurture a group of AI HARNESSes - teac
 
 The main point of **Experimental Education** is **Learning by Doing** - this is the core of the **Self-Improving approach** in AI Harnesses too, but they are doing it for now in a very naive way. They are not "natural learners" - we will need to help them simulate aspects like this:
 
-   **Curiosity-driven rewards:** - reward the harness for exploring and asking questions, not just for finishing the task
-   **Metacognitive loops:** - let it reflect on how it approached a problem and reuse what worked next time
-   **Dynamic taxonomy:** - keep its mental model of the world updated as it learns new things
+ - **Curiosity-driven rewards:** reward the harness for exploring and asking questions, not just for finishing the task
+ - **Metacognitive loops:** let it reflect on how it approached a problem and reuse what worked next time
+ - **Dynamic taxonomy:** keep its mental model of the world updated as it learns new things
 ---
 
 ## Why [AHA.AISidesKicks.fyi](https://AHA.AISidesKicks.fyi)
