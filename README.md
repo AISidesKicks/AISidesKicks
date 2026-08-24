@@ -6,6 +6,8 @@ I spent 10+ years as **Architect & Implementation Engineer** - hands-on experien
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
+Interesting learned lessons for AI PoC and MVBs for many companies si we sundely have patched tohether 100 ai compones and tocken comsumtion is juomed ou of the roof  and   - so next time bring expreinced INtegratio adn INterfrence engeenr on borad too. PLESAE
+
 ## I know how to do my job.
 
 ## AI doesn't! PERIOD!!!
@@ -35,6 +37,17 @@ The main point of **Experimental Education** is **Learning by Doing** - this is 
  - **Curiosity-driven rewards:** reward the harness for exploring and asking questions, not just for finishing the task
  - **Metacognitive loops:** let it reflect on how it approached a problem and reuse what worked next time
  - **Dynamic taxonomy:** keep its mental model of the world updated as it learns new things
+---
+
+## Specialized customized Agentic Harnesses
+
+With revelation on minimal coding agent Pi and others, we have possibility to assemble as LEGO our to ideally fix our real JOBs.
+
+Here are my setups (inspired by [lazyPI](https://lazypi.org/)):
+
+ - [my.pietra.dev](https://my.pietra.dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
+ - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
+ - [3d.demessea.dev](https://3d.demessea.dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 ---
 
 ## Why [AHA.AISidesKicks.fyi](https://AHA.AISidesKicks.fyi)
