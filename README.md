@@ -48,6 +48,9 @@ Here are my setups (inspired by [lazyPI](https://lazypi.org/)):
  - [my.pietra.dev](https://my.pietra.dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
  - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
  - [3d.demessea.dev](https://3d.demessea.dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+
+My work on AI harnesses is inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) as [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517) 
+[![AVO video](https://img.youtube.com/vi/b_hGC2g45n0/maxresdefault.jpg)](https://www.youtube.com/watch?v=b_hGC2g45n0)
 ---
 
 ## Why [AHA.AISidesKicks.fyi](https://AHA.AISidesKicks.fyi)
