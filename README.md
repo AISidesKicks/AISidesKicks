@@ -22,7 +22,7 @@ AI is, for now, very LAZY when it comes to **REAL** Integrations or Infra manage
 
 YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infrastructure-era/)** will one day fully replace the current mostly template-based **[Infrastructure as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)**. But for now, we need to set up and guide the AI Harness to actually be helpful and do it right.
 
-**Let's share together to do it!**
+**Let's share together how to do it!**
 
 ### We all will be EDUCATORs very soon
 
