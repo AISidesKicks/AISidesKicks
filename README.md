@@ -6,7 +6,7 @@ I spent 10+ years as **Architect & Implementation Engineer** - hands-on experien
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
-Interesting learned lessons from AI PoC and MVPs for many companies: so you suddenly have patched together 100+ AI buiding elemets and token consumption jumped through the roof, it don't scale and it don't have definned relistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE
+For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE! We know how to scale and measure.
 
 ## I know how to do my job.
 
