@@ -1,18 +1,40 @@
 # Hi There 🤝
 
-I send 15 years as **QA/QE & Integration Engineer** in plus 15 years  with 15 years of - hands-on experience delivering quality on complex, high-stakes projects across **TELCO**, **HPC/AI**, and **RETAIL** industries.
+I spent 10+ years as **QA/QE & Integration Engineer** - hands-on experience delivering quality on complex, high-stakes SW projects across **TELCO** and **RETAIL** industries.
 
-I send 15 years as **QA/QE & Integration Engineer** in plus 15 years  with 15 years of - hands-on experience delivering quality on complex, high-stakes projects across **TELCO**, **HPC/AI**, and **RETAIL** industries.
+I spent 10+ years as **Architect & Implementation Engineer** - hands-on experience delivering complex **HPC**, **ML** and **AI** HW/SW clusters and solutions based on NVIDIA for FORTUNE 100 companies.
 
+It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
-I know how to do my job. **AI doesn't! PERIOD!!!**
+## I know how to do my job.
 
-AI so more and more capable faster and faster, but 
+**AI doesn't! PERIOD!!!**
+
+### Well:
+
+As AI gets better and better at code - code it can check by itself - the harnesses keep improving themselves. This builds a self-improving [RSI](https://en.wikipedia.org/wiki/Recursive_self-improvement) loop that extends beyond code, into Infra and Integrations too.
+
+But for now they do it in a naive, messy, not caring way, because they live in labs with siloed environments, not real enterprise ones - this can potentially encourage [reward hacking](https://en.wikipedia.org/wiki/Reward_hacking).
+
+AI can handle narrowly focused tasks fine, but it trips over the complexity of integrations and long-term stability needed for infra - unlike code and the predefined environments in labs, the enterprise is messy and variable all the time.
+
+AI is, for now, very LAZY when it comes to **REAL** Integrations or Infra management, and it can be very dangerous without the right human proactive guidance.
+
+YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infrastructure-era/)** will one day fully replace the current mostly template-based **[Infrastructure as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)**. But for now, we need to set up and guide the AI Harness to actually be helpful and do it right.
+
+**Let's share together to do it!**
+
+### We all will be EDUCATORs very soon
 
 Thanks to fortune, I am ALSO a certified, after-class educator - I teach a lot of teens the basics of [STEAM](https://en.wikipedia.org/wiki/STEAM_education) using [Experiential Education](https://www.aee.org/what-is-experiential-education), [EEE](https://eeeurope.org/).
 
-Now I'm using that hard-won experience to nurture a group of AI Companion Assistants - teaching them not just to execute tasks, but to think critically, see systems holistically, and deliver real engineering value outside of just coding.
+Now I'm using that hard-won experience to nurture a group of AI HARNESSes - teaching them not just to execute tasks, but to think critically, see systems holistically, and deliver real engineering value outside of just coding.
 
+The main point of **Experimental Education** is **Learning by Doing** - this is the core of the **Self-Improving approach** in AI Harnesses too, but they are doing it for now in a very naive way. They are not "natural learners" - we will need to help them simulate aspects like this:
+
+   **Curiosity-driven rewards:** - reward the harness for exploring and asking questions, not just for finishing the task
+   **Metacognitive loops:** - let it reflect on how it approached a problem and reuse what worked next time
+   **Dynamic taxonomy:** - keep its mental model of the world updated as it learns new things
 ---
 
 ## Why [AHA.AISidesKicks.fyi](https://AHA.AISidesKicks.fyi)
@@ -21,7 +43,7 @@ Now I'm using that hard-won experience to nurture a group of AI Companion Assist
 
 The **Side Kick** is a fundamental technique in kickboxing that combines strength, balance, and coordination. It's not the flashy knockout punch. It's the reliable, technical move that keeps you in the fight.
 
-In team sports, the best players aren’t the solo heroes but the ones who make everyone around them better — the true **sidekicks** who turn individual effort into collective momentum.
+In team sports, the best players aren't the solo heroes but the ones who make everyone around them better - the true **sidekicks** who turn individual effort into collective momentum.
 
 In cooking, a **sidekick** refers to dishes that complement the main course. Not the star, but the thing that makes the star look good. Garlic bread knows its place.
 
@@ -33,12 +55,11 @@ Because AI always wants to give you more than you asked for. One sidekick? Cute.
 
 ### And aha. ?
 
-**A*****HA***** - Becasue we are **Advancing** ***H*****UMANS with AI**
-
+**A**HA - Because we are **A**dvancing **H**UMANS with **A**I
 
 ### And .fyi ?
 
-**For Your Info** - Because after 20+ years in QA, I have opinions worth sharing. You've been warned.
+**For Your Info** - Because information is the core of all learning experiences.
 
 ---
 
