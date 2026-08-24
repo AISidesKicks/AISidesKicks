@@ -6,7 +6,7 @@ I spent 10+ years as **Architect & Implementation Engineer** - hands-on experien
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
-Interesting learned lessons for AI PoC and MVBs for many companies si we sundely have patched tohether 100 ai compones and tocken comsumtion is juomed ou of the roof  and   - so next time bring expreinced INtegratio adn INterfrence engeenr on borad too. PLESAE
+Interesting learned lessons for AI PoC and MVPs for many companies: so you suddenly have patched together 100+ AI buiding elemets and token consumption jumped through the roof - so next time bring experienced Integration and Inference engineers on board too. PLEASE
 
 ## I know how to do my job.
 
