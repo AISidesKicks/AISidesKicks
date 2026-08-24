@@ -2,7 +2,7 @@
 
 I spent 10+ years as **QA/QE & Integration Engineer** - hands-on experience delivering quality on complex, high-stakes SW projects across **TELCO** and **RETAIL** industries.
 
-I spent 10+ years as **Architect & Implementation Engineer** - hands-on experience delivering complex **HPC**, **ML** and **AI** HW/SW clusters and solutions based on NVIDIA for FORTUNE 100 companies.
+I spent 10+ years as **Architect & Implementation Engineer** - hands-on experience delivering complex **HPC**, **ML** and **AI** clusters and HW/SW solutions based on NVIDIA for FORTUNE 100 companies.
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
