@@ -39,7 +39,7 @@ The main point of **Experimental Education** is **Learning by Doing** - this is 
  - **Dynamic taxonomy:** keep its mental model of the world updated as it learns new things
 ---
 
-## Specialized customized Agentic Harnesses
+## Specialized customized Agentic AI Harnesses
 
 With revelation on minimal coding agent Pi and others, we have possibility to assemble as LEGO our to ideally fix our real JOBs.
 
