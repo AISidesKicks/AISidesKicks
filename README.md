@@ -87,7 +87,7 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
 
 ## AI is not a just SideKick any more!
 
-Interview with ***DHH**: Future of Programming, AI, Agentic Engineering & Linux (Lex Fridman Podcast #501 - 25 Aug 2026)
+Interview with **DHH**: Future of Programming, AI, Agentic Engineering & Linux (Lex Fridman Podcast #501 - 25 Aug 2026)
 
 [![DHH: Future of Programming, AI, Agentic Engineering & Linux | Lex Fridman Podcast #501](https://img.youtube.com/vi/NYFGCESmikA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NYFGCESmikA)
 
