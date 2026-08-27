@@ -6,11 +6,11 @@ I spent 10+ years as **Architect & Implementation Engineer** - hands-on experien
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
-For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE! We know how to scale and measure.
+For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE! We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too. 
 
-## I know how to do my job.
+## I know how to do my job. AI doesn't! PERIOD!!!
 
-## AI doesn't! PERIOD!!!
+---
 
 ### Well:
 
@@ -25,7 +25,11 @@ AI is, for now, very LAZY when it comes to **REAL** Integrations or Infra manage
 YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infrastructure-era/)** will one day fully replace the current mostly template-based **[Infrastructure as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)**. But for now, we need to set up and guide the AI Harness to actually be helpful and do it right.
 
 **Let's share together how to do it!**
+---
 
+
+
+---
 ### We all will be EDUCATORs very soon
 
 Thanks to fortune, I am ALSO a certified, after-class educator - I teach a lot of teens the basics of [STEAM](https://en.wikipedia.org/wiki/STEAM_education) using [Experiential Education](https://www.aee.org/what-is-experiential-education), [EEE](https://eeeurope.org/).
