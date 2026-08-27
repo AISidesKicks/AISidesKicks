@@ -25,12 +25,14 @@ AI is, for now, very LAZY when it comes to **REAL** Integrations or Infra manage
 YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infrastructure-era/)** will one day fully replace the current mostly template-based **[Infrastructure as Code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)**. But for now, we need to set up and guide the AI Harness to actually be helpful and do it right.
 
 **Let's share together how to do it!**
----
-
-
 
 ---
-### We all will be EDUCATORs very soon
+
+
+
+---
+
+## We all will be EDUCATORs very soon
 
 Thanks to fortune, I am ALSO a certified, after-class educator - I teach a lot of teens the basics of [STEAM](https://en.wikipedia.org/wiki/STEAM_education) using [Experiential Education](https://www.aee.org/what-is-experiential-education), [EEE](https://eeeurope.org/).
 
@@ -41,9 +43,10 @@ The main point of **Experimental Education** is **Learning by Doing** - this is 
  - **Curiosity-driven rewards:** reward the harness for exploring and asking questions, not just for finishing the task
  - **Metacognitive loops:** let it reflect on how it approached a problem and reuse what worked next time
  - **Dynamic taxonomy:** keep its mental model of the world updated as it learns new things
+
 ---
 
-## Specialized customized Agentic AI Harnesses
+### Specialized customized Agentic AI Harnesses
 
 With revelation of minimal coding agent Pi and others, we have possibility to assemble as LEGO our to ideally fix our real JOBs.
 
@@ -70,7 +73,7 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
  - [Self-Harness: Harnesses That Improve Themselves (arxiv:2606.09498 - 8 Jun 2026)](https://arxiv.org/abs/2606.09498)
  - [Meta-Harness: End-to-End Optimization of Model Harnesses (arXiv:2603.28052 - 30 Mar 2026)](https://arxiv.org/abs/2603.28052)
  - [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design (arxiv:2608.13560 - 13 Aug 2026)](https://arxiv.org/abs/2608.13560)
- - [Harness Continual Learning: Continual Adaptation Beyond Model Parameters (arxiv:2608.19013 - 9 Aug 2026](https://arxiv.org/abs/2608.19013)
+ - [Harness Continual Learning: Continual Adaptation Beyond Model Parameters (arxiv:2608.19013 - 9 Aug 2026)](https://arxiv.org/abs/2608.19013)
  - [StarHarness: Evolving Harnesses with Stratified Search (arxiv:2608.24804 - 26 Aug 2026)](https://arxiv.org/abs/2608.24804)
  - [HarnessCompass: Guiding Automatic Harness Evolution (arxiv:2608.01918 - 4 Aug 2026)](https://arxiv.org/abs/2608.01918)
  - [Living-Harness Is an Interactive-Agent Evolver (arxiv:2607.26598 - 30 Jul 2026)](https://arxiv.org/abs/2607.26598)
