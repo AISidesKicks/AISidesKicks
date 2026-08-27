@@ -41,7 +41,7 @@ The main point of **Experimental Education** is **Learning by Doing** - this is 
 
 ## Specialized customized Agentic AI Harnesses
 
-With revelation on minimal coding agent Pi and others, we have possibility to assemble as LEGO our to ideally fix our real JOBs.
+With revelation of minimal coding agent Pi and others, we have possibility to assemble as LEGO our to ideally fix our real JOBs.
 
 Here are my setups (inspired by [lazyPI](https://lazypi.org/)):
 
@@ -49,9 +49,38 @@ Here are my setups (inspired by [lazyPI](https://lazypi.org/)):
  - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
  - [3d.demessea.dev](https://3d.demessea.dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
-My work on AI harnesses is inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) as [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517)
+My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/).  
 
-[![AVO video](https://img.youtube.com/vi/b_hGC2g45n0/maxresdefault.jpg)](https://www.youtube.com/watch?v=b_hGC2g45n0)
+Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, my [hermess agent](https://github.com/nousresearch/hermes-agent) to proactively research this topic for me:
+
+ - [AVO: Agentic Variation Operators for Autonomous Evolutionary Search (arxiv:2603.24517 - 25 Mar 2026)](https://arxiv.org/abs/2603.24517)
+
+ - [What makes a harness a harness (arxiv:2606.10106 - 10 Jun 2026)](https://arxiv.org/abs/2606.10106)
+ - [Scaling the Harness in Agentic AI (arxiv:2605.26112 - 26 May 2026)](https://arxiv.org/abs/2605.26112)
+ - [Code as Agent Harness (arxiv:2605.18747 - 18 May 2026)](https://arxiv.org/abs/2605.18747)
+
+ - [Self-Harness: Harnesses That Improve Themselves (arxiv:2606.09498 - 8 Jun 2026)](https://arxiv.org/abs/2606.09498)
+ - [Meta-Harness: End-to-End Optimization of Model Harnesses (arXiv:2603.28052 - 30 Mar 2026)](https://arxiv.org/abs/2603.28052)
+ - [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design (arxiv:2608.13560 - 13 Aug 2026)](https://arxiv.org/abs/2608.13560)
+ - [Harness Continual Learning: Continual Adaptation Beyond Model Parameters (arxiv:2608.19013 - 9 Aug 2026](https://arxiv.org/abs/2608.19013)
+ - [StarHarness: Evolving Harnesses with Stratified Search (arxiv:2608.24804 - 26 Aug 2026)](https://arxiv.org/abs/2608.24804)
+ - [HarnessCompass: Guiding Automatic Harness Evolution (arxiv:2608.01918 - 4 Aug 2026)](https://arxiv.org/abs/2608.01918)
+ - [Living-Harness Is an Interactive-Agent Evolver (arxiv:2607.26598 - 30 Jul 2026)](https://arxiv.org/abs/2607.26598)
+ - [MemoHarness: Agent Harnesses That Learn from Experience (arxiv:2607.14159 - 14 Jul 2026)](https://arxiv.org/abs/2607.14159)
+ - [AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces (arXiv:2608.23041 - 24 Aug 2026)](https://arxiv.org/abs/2608.23041)
+ - [Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection (arxiv:2608.20169 - 20 Aug 2026)](https://arxiv.org/abs/2608.20169)
+
+ - [Co-Evolving Harnesses and Model Weights for LLM Agents (arxiv:2607.22688 - 17 Jul 2026)](https://arxiv.org/abs/2607.22688)
+
+ - [Rethinking the Evaluation of Harness Evolution for Agents (arXiv:2607.12227 - 14 Jul 2026)](https://arxiv.org/abs/2607.12227)
+ - [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization (arxiv:2608.06301 - 6 Aug 2026)](https://arxiv.org/abs/2608.06301)
+
+---
+
+## AI is not a just SideKick any more!
+
+[![DHH: Future of Programming, AI, Agentic Engineering  & Linux | Lex Fridman Podcast #501](https://img.youtube.com/vi/b_xxxxx/maxresdefault.jpg)](https://www.youtube.com/watch?v=NYFGCESmikA)
+
 ---
 
 ## Why [AHA.AISidesKicks.fyi](https://AHA.AISidesKicks.fyi)
