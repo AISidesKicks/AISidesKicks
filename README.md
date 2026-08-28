@@ -98,6 +98,8 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
 
 Interview with **DHH**: Future of Programming, AI, Agentic Engineering & Linux (Lex Fridman Podcast #501 - 25 Aug 2026)
 
+Future is here - even our OS like Linux under our AI Harness will be Agentic and can be not only configured but also extended with AI?
+
 [![DHH: Future of Programming, AI, Agentic Engineering & Linux | Lex Fridman Podcast #501](https://img.youtube.com/vi/NYFGCESmikA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NYFGCESmikA)
 
 ---
