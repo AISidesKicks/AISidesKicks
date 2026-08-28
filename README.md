@@ -38,7 +38,7 @@ Thanks to fortune, I am ALSO a certified, after-class educator - I teach a lot o
 
 Now I'm using that hard-won experience to nurture a group of AI HARNESSes - teaching them not just to execute tasks, but to think critically, see systems holistically, and deliver real engineering value outside of just coding.
 
-The main point of **Experimental Education** is **Learning by Doing** - this is the core of the **Self-Improving approach** in AI Harnesses too, but they are doing it for now in a very naive way. They are not "natural learners" - we will need to help them simulate aspects like this:
+The main point of **Experiential Education** is **Learning by Doing** - this is the core of the **Self-Improving approach** in AI Harnesses too, but they are doing it for now in a very naive way. They are not "natural learners" - we will need to help them simulate aspects like this:
 
  - **Curiosity-driven rewards:** reward the harness for exploring and asking questions, not just for finishing the task
  - **Metacognitive loops:** let it reflect on how it approached a problem and reuse what worked next time
@@ -48,15 +48,17 @@ The main point of **Experimental Education** is **Learning by Doing** - this is 
 
 ### Specialized customized Agentic AI Harnesses
 
-With revelation of minimal coding agent Pi and others, we have possibility to assemble as LEGO our to ideally fix our real JOBs.
+With revelation of minimal coding agent Pi and others, we have the possibility to assemble our own LEGO-like stack to ideally fix our real JOBs.
 
-Here are my setups (inspired by [lazyPI](https://lazypi.org/)):
+Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create specialized architect [https://gritty.guidera.party](gritty.guidera.party)
 
  - [my.pietra.dev](https://my.pietra.dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
  - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
  - [3d.demessea.dev](https://3d.demessea.dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
-My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/).  
+My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) and initial Stanford research.
+
+[![Rethinking AI Agents: The Rise of Harness Engineering](https://img.youtube.com/vi/Xxuxg8PcBvc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xxuxg8PcBvc)
 
 Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, my [hermess agent](https://github.com/nousresearch/hermes-agent) to proactively research this topic for me:
 
@@ -92,7 +94,7 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
 
 ---
 
-## AI is not a just SideKick any more!
+## AI is not just a SideKick any more!
 
 Interview with **DHH**: Future of Programming, AI, Agentic Engineering & Linux (Lex Fridman Podcast #501 - 25 Aug 2026)
 
