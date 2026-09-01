@@ -50,7 +50,7 @@ The main point of **Experiential Education** is **Learning by Doing** - this is 
 
 With revelation of minimal coding agent Pi and others, we have the possibility to assemble our own LEGO-like stack to ideally fix AI applications in our real JOBs.
 
-Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create specialized architect [https://gritty.guidera.party](gritty.guidera.party)
+Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create specialized architect [gritty.guidera.party](https://gritty.guidera.party)
 
  - [my.pietra.dev](https://my.pietra.dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
  - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
