@@ -88,13 +88,16 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
  - [MemoHarness: Agent Harnesses That Learn from Experience (arxiv:2607.14159 - 14 Jul 2026)](https://arxiv.org/abs/2607.14159)
  - [AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces (arXiv:2608.23041 - 24 Aug 2026)](https://arxiv.org/abs/2608.23041)
  - [Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection (arxiv:2608.20169 - 20 Aug 2026)](https://arxiv.org/abs/2608.20169)
+ - [JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution (arxiv:2608.25593 - 26 Aug 2026)](https://arxiv.org/abs/2608.25593)
 
 <br>
 
  - [Co-Evolving Harnesses and Model Weights for LLM Agents (arxiv:2607.22688 - 17 Jul 2026)](https://arxiv.org/abs/2607.22688)
+ - [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses (arxiv:2608.24876 - 25 Aug 2026)](https://arxiv.org/abs/2608.24876)
 
 <br>
 
+ - [Stop Comparing LLM Agents Without Disclosing the Harness (arXiv:2605.23950 - 7 May 2026)](https://arxiv.org/abs/2605.23950)
  - [Rethinking the Evaluation of Harness Evolution for Agents (arXiv:2607.12227 - 14 Jul 2026)](https://arxiv.org/abs/2607.12227)
  - [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization (arxiv:2608.06301 - 6 Aug 2026)](https://arxiv.org/abs/2608.06301)
 
