@@ -6,7 +6,7 @@ I spent 10+ years as **Architect & Implementation Engineer** - hands-on experien
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
-For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE! We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too. 
+For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE! We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too.
 
 ## I know how to do my job. AI doesn't! PERIOD!!!
 
@@ -28,10 +28,6 @@ YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infra
 
 ---
 
-
-
----
-
 ## We all will be EDUCATORs very soon
 
 Thanks to fortune, I am ALSO a certified, after-class educator - I teach a lot of teens the basics of [STEAM](https://en.wikipedia.org/wiki/STEAM_education) using [Experiential Education](https://www.aee.org/what-is-experiential-education), [EEE](https://eeeurope.org/).
@@ -43,6 +39,16 @@ The main point of **Experiential Education** is **Learning by Doing** - this is 
  - **Curiosity-driven rewards:** reward the harness for exploring and asking questions, not just for finishing the task
  - **Metacognitive loops:** let it reflect on how it approached a problem and reuse what worked next time
  - **Dynamic taxonomy:** keep its mental model of the world updated as it learns new things
+
+---
+
+### Hybrid AI - Running AI fully locally or as private AI in the cloud
+
+Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all, so I am mapping my experiences in these projects:
+
+ - [Local AI is not CHEAP](https://localai.isnot.cheap/) - EDU AI LAB for tokenomics
+ - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
+ - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
 ---
 
