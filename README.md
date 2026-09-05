@@ -113,6 +113,8 @@ Interview with **DHH**: Future of Programming, AI, Agentic Engineering & Linux (
 
 Future is here - even our OS like Linux under our AI Harness will be Agentic and can be not only configured but also extended with AI?
 
+<p align="center"><img src="docs/omarchy4.png" alt="Omarchy - Beautiful, Fun & Agentic Linux by DHH" /></p>
+
 [![DHH: Future of Programming, AI, Agentic Engineering & Linux | Lex Fridman Podcast #501](https://img.youtube.com/vi/NYFGCESmikA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NYFGCESmikA)
 
 ---
