@@ -6,11 +6,15 @@ I spent 10+ years as **Architect & Implementation Engineer** - hands-on experien
 
 It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/).
 
-For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too. PLEASE! We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too.
+For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too.
 
-## I know how to do my job. AI doesn't! PERIOD!!!
+**PLEASE!** We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too.
+
+[![Why Netflix is betting on systems thinkers—not specialists—in the AI era - Elizabeth Stone CPTO | Lenny's Podcast](https://img.youtube.com/vi/t0GiTyz4syY/maxresdefault.jpg)](https://www.youtube.com/watch?v=t0GiTyz4syY)
 
 ---
+
+## I know how to do my job. AI doesn't! PERIOD!!!
 
 ### Well:
 
@@ -44,9 +48,9 @@ The main point of **Experiential Education** is **Learning by Doing** - this is 
 
 ### Hybrid AI - Running AI fully locally or as private AI in the cloud
 
-Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all, so I am mapping my experiences in these projects:
+Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will met lot of **trilemmas**, so I am mapping my experiences in these projects:
 
- - [Local AI is not CHEAP](https://localai.isnot.cheap/) - EDU AI LAB for tokenomics
+ - [localai.isnot.cheap](https://localai.isnot.cheap/) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
  - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
  - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
