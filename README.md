@@ -8,7 +8,7 @@ It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com
 
 For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too.
 
-**PLEASE!** We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too.
+**PLEASE!** We know how to scale and measure - we have **System Thinking** and **End2End** approaches in our toolkit too. See [Thinking in Systems](https://AHA.AISidesKicks.fyi/)
 
 [![Why Netflix is betting on systems thinkers—not specialists—in the AI era - Elizabeth Stone CPTO | Lenny's Podcast](https://img.youtube.com/vi/t0GiTyz4syY/maxresdefault.jpg)](https://www.youtube.com/watch?v=t0GiTyz4syY)
 
