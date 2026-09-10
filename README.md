@@ -107,7 +107,14 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
 
  - [Stop Comparing LLM Agents Without Disclosing the Harness (arXiv:2605.23950 - 7 May 2026)](https://arxiv.org/abs/2605.23950)
  - [Rethinking the Evaluation of Harness Evolution for Agents (arXiv:2607.12227 - 14 Jul 2026)](https://arxiv.org/abs/2607.12227)
+ - [Human-on-the-Bridge: Scalable Evaluation for AI Agents (arxiv:2606.16871 - 5 Jun 2026)](https://arxiv.org/abs/2606.16871)
  - [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization (arxiv:2608.06301 - 6 Aug 2026)](https://arxiv.org/abs/2608.06301)
+
+<br>
+
+ - [Open Harness Atlas - The OSS layer that makes model-agnostic AI workloads possible](https://github.com/Benjamin-KY/open-harness-atlas)
+ - [Agent Harness Atlas - head-to-head review of the harness around mainstream AI coding agents](https://github.com/agent-harness-atlas/agent-harness-atlas.github.io) - [web](https://agent-harness-atlas.github.io/)
+ - [Harness Atlas - tears agent harnesses down into the primitives they actually ship, scores them on one fixed component grid, and places them on a maturity range](https://github.com/shi503/harness-atlas/)
 
 ---
 
