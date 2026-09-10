@@ -65,6 +65,7 @@ Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create spec
  - [my.pietra.dev](https://my.pietra.dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
  - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
  - [3d.demessea.dev](https://3d.demessea.dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+ - [inside.cottonbox.cc](https://inside.cottonbox.cc) - Sandboxing is wild: Sheep pen, Cattle pen, Paddock for horses or even Metal cage for wild animal?
 
 My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) and initial Stanford research.
 
