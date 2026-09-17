@@ -12,6 +12,8 @@ For many companies most interesting learned lesson from AI PoC and MVP is: you s
 
 [![Why Netflix is betting on systems thinkers—not specialists—in the AI era - Elizabeth Stone CPTO | Lenny's Podcast](https://img.youtube.com/vi/t0GiTyz4syY/maxresdefault.jpg)](https://www.youtube.com/watch?v=t0GiTyz4syY)
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch-on_YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=t0GiTyz4syY)
+
 ---
 
 ## I know how to do my job. AI doesn't! PERIOD!!!
@@ -74,6 +76,8 @@ My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://dev
 
 [![Rethinking AI Agents: The Rise of Harness Engineering](https://img.youtube.com/vi/Xxuxg8PcBvc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xxuxg8PcBvc)
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch-on_YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Xxuxg8PcBvc)
+
 Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, my [hermess agent](https://github.com/nousresearch/hermes-agent) to proactively research this topic for me:
 
  - [AVO: Agentic Variation Operators for Autonomous Evolutionary Search (arxiv:2603.24517 - 25 Mar 2026)](https://arxiv.org/abs/2603.24517)
@@ -125,6 +129,8 @@ Interview with **DHH**: Future of Programming, AI, Agentic Engineering & Linux (
 Future is here - even our OS like Linux under our AI Harness will be Agentic and can be not only configured but also extended with AI?
 
 [![DHH: Future of Programming, AI, Agentic Engineering & Linux | Lex Fridman Podcast #501](https://img.youtube.com/vi/NYFGCESmikA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NYFGCESmikA)
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch-on_YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=NYFGCESmikA)
 
 <p align="center"><a href="https://omarchy.org/"><img src="docs/omarchy4.png" alt="Omarchy - Beautiful, Fun & Agentic Linux by DHH" /></a></p>
 
