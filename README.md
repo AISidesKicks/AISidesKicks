@@ -32,6 +32,16 @@ YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infra
 
 ---
 
+### Hybrid AI - Running AI fully locally or as private AI in the cloud
+
+Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will met lot of **trilemmas**, so I am mapping my experiences in these projects:
+
+ - [localai.isnot.cheap](https://localai.isnot.cheap/) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
+ - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
+ - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
+
+---
+
 ## We all will be EDUCATORs very soon
 
 Thanks to fortune, I am ALSO a certified, after-class educator - I teach a lot of teens the basics of [STEAM](https://en.wikipedia.org/wiki/STEAM_education) using [Experiential Education](https://www.aee.org/what-is-experiential-education), [EEE](https://eeeurope.org/).
@@ -43,16 +53,6 @@ The main point of **Experiential Education** is **Learning by Doing** - this is 
  - **Curiosity-driven rewards:** reward the harness for exploring and asking questions, not just for finishing the task
  - **Metacognitive loops:** let it reflect on how it approached a problem and reuse what worked next time
  - **Dynamic taxonomy:** keep its mental model of the world updated as it learns new things
-
----
-
-### Hybrid AI - Running AI fully locally or as private AI in the cloud
-
-Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will met lot of **trilemmas**, so I am mapping my experiences in these projects:
-
- - [localai.isnot.cheap](https://localai.isnot.cheap/) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
- - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
- - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
 ---
 
