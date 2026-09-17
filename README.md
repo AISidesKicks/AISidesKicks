@@ -42,6 +42,10 @@ Running AI inference for hundreds of users and thousands of agents at real enter
  - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
  - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
+**Private AI** is these days also many times one of **HARD** requirements in meaningful **benchmarking**, **evals** or **red teaming**:
+
+ - [rainbow.redoras.dev](https://rainbow.redoras.dev/) - I needs REDORAS: **R**apid **E**xploitation & **D**eception **O**perations for **R**esilient **A**rchitecture & **S**ystems.
+
 ---
 
 ## We all will be EDUCATORs very soon
