@@ -38,7 +38,7 @@ YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infra
 
 Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will met lot of **trilemmas**, so I am mapping my experiences in these projects:
 
- - [localai.isnot.cheap](https://localai.isnot.cheap/) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
+ - [localai.isnot.cheap](https://localai.isnot.cheap/) [GH](https://github.com/AISidesKicks/localai-isnot-cheap) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
  - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
  - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
