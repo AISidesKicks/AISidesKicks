@@ -4,7 +4,7 @@ I spent 10+ years as **QA/QE & Integration Engineer** - hands-on experience deli
 
 I spent 10+ years as **Architect & Implementation Engineer** - hands-on experience delivering complex **HPC**, **ML** and **AI** clusters and HW/SW solutions based on NVIDIA for FORTUNE 100 companies.
 
-It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/), in the age of AI we are now "Applied AI Solution Architects", not just **PRE** or [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering).
+It was a very funny task to fit it all on my [LinkedIn](https://www.linkedin.com/in/rudolfkutina/), in the age of AI we are now "Applied AI Solution Architects", not just [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering).
 
 For many companies most interesting learned lesson from AI PoC and MVP is: you suddenly have patched together 100+ AI building elements and token consumption jumped through the roof, it doesn't scale and it doesn't have defined realistic tokenomics - so next time bring experienced Integration and Inference engineers on board too.
 
