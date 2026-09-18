@@ -39,12 +39,12 @@ YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infra
 Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will met lot of **trilemmas**, so I am mapping my experiences in these projects:
 
  - [localai.isnot.cheap](https://localai.isnot.cheap/) [GH](https://github.com/AISidesKicks/localai-isnot-cheap) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
- - [why.hybridai.rsvp](https://why.hybridai.rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
- - [howto.hybridai.click](https://howto.hybridai.click) - Automating HybridAI on NeoCloud with Agentic Infra approach
+ - [why.hybridai.rsvp](https://why.hybridai.rsvp) [GH](https://github.com/AISidesKicks/why-hybridai-rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
+ - [howto.hybridai.click](https://howto.hybridai.click) [GH](https://github.com/AISidesKicks/howto-hybridai-click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
 **Private AI** is these days also many times one of **HARD** requirements in meaningful **benchmarking**, **evals** or **red teaming**:
 
- - [rainbow.redoras.dev](https://rainbow.redoras.dev/) - I needs REDORAS: **R**apid **E**xploitation & **D**eception **O**perations for **R**esilient **A**rchitecture & **S**ystems.
+ - [rainbow.redoras.dev](https://rainbow.redoras.dev/) [GH](https://github.com/AISidesKicks/rainbow-redoras-dev) - I needs REDORAS: **R**apid **E**xploitation & **D**eception **O**perations for **R**esilient **A**rchitecture & **S**ystems.
 
 ---
 
@@ -66,16 +66,16 @@ The main point of **Experiential Education** is **Learning by Doing** - this is 
 
 With revelation of minimal coding agent Pi and others, we have the possibility to assemble our own LEGO-like stack to ideally fix AI applications in our real JOBs.
 
-Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create specialized architect [gritty.guidera.party](https://gritty.guidera.party)
+Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create specialized architect [gritty.guidera.party](https://gritty.guidera.party) [GH](https://github.com/AISidesKicks/gritty-guidera-party)
 
- - [my.pietra.dev](https://my.pietra.dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
- - [my.taufiq.dev](https://my.taufiq.dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
- - [3d.demessea.dev](https://3d.demessea.dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+ - [my.pietra.dev](https://my.pietra.dev) [GH](https://github.com/AISidesKicks/my-pietra-dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
+ - [my.taufiq.dev](https://my.taufiq.dev) [GH](https://github.com/AISidesKicks/my-taufiq-dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
+ - [3d.demessea.dev](https://3d.demessea.dev) [GH](https://github.com/AISidesKicks/3d-demessea-dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
 <br>
 
- - [mcpwith.codemode.cc](https://mcpwith.codemode.cc/) - MCP is still reinventing itself - now we are executing code inside MCP servers?
- - [inside.cottonbox.cc](https://inside.cottonbox.cc) - Sandboxing is wild: Sheep pen, Cattle pen, Paddock for horses or even Metal cage for wild animal?
+ - [mcpwith.codemode.cc](https://mcpwith.codemode.cc/) [GH](https://github.com/AISidesKicks/mcpwith-codemode-cc) - MCP is still reinventing itself - now we are executing code inside MCP servers?
+ - [inside.cottonbox.cc](https://inside.cottonbox.cc) [GH](https://github.com/AISidesKicks/inside-cottonbox-cc) - Sandboxing is wild: Sheep pen, Cattle pen, Paddock for horses or even Metal cage for wild animal?
 
 My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) and initial Stanford research.
 
