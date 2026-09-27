@@ -70,14 +70,16 @@ Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create spec
 
  - [my.pietra.dev](https://my.pietra.dev) [GH](https://github.com/AISidesKicks/my-pietra-dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
  - [my.taufiq.dev](https://my.taufiq.dev) [GH](https://github.com/AISidesKicks/my-taufiq-dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
- - [3d.demessea.dev](https://3d.demessea.dev) [GH](https://github.com/AISidesKicks/3d-demessea-dev) - Custom AI harness for de-messing vibecoded stuff based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+ - [3d.demessea.dev](https://3d.demessea.dev) [GH](https://github.com/AISidesKicks/3d-demessea-dev) - Custom AI harness for de-messing data 'pipe piles' based on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 
 <br>
 
  - [mcpwith.codemode.cc](https://mcpwith.codemode.cc/) [GH](https://github.com/AISidesKicks/mcpwith-codemode-cc) - MCP is still reinventing itself - now we are executing code inside MCP servers?
  - [inside.cottonbox.cc](https://inside.cottonbox.cc) [GH](https://github.com/AISidesKicks/inside-cottonbox-cc) - Sandboxing is wild: Sheep pen, Cattle pen, Paddock for horses or even Metal cage for wild animal?
 
-My work on AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) and initial Stanford research.
+My work on self assembling per Domain AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) and initial Stanford research.
+
+Today we see the rise of specialized [DSH (Domain Specific Harnesses)](https://github.com/autonomous-ai/openharness#domain-specific-harnesses-dsh), where we see AI applications shifting from focused [opencode](https://github.com/anomalyco/opencode) to domain tailored [openharness](https://github.com/autonomous-ai/openharness).
 
 [![Rethinking AI Agents: The Rise of Harness Engineering](https://img.youtube.com/vi/Xxuxg8PcBvc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xxuxg8PcBvc)
 
