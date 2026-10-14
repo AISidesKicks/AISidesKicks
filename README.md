@@ -129,20 +129,6 @@ Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, m
 
 ---
 
-## AI is not just a SideKick any more!
-
-Interview with **DHH**: Future of Programming, AI, Agentic Engineering & Linux (Lex Fridman Podcast #501 - 25 Aug 2026)
-
-Future is here - even our OS like Linux under our AI Harness will be Agentic and can be not only configured but also extended with AI?
-
-[![DHH: Future of Programming, AI, Agentic Engineering & Linux | Lex Fridman Podcast #501](https://img.youtube.com/vi/NYFGCESmikA/maxresdefault.jpg)](https://www.youtube.com/watch?v=NYFGCESmikA)
-
-[![Watch on YouTube](https://img.shields.io/badge/Watch-on_YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=NYFGCESmikA)
-
-<p align="center"><a href="https://omarchy.org/"><img src="docs/omarchy4.png" alt="Omarchy - Beautiful, Fun & Agentic Linux by DHH" /></a></p>
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
