@@ -36,15 +36,31 @@ YES! An **[Agentic Infrastructure](https://www.pulumi.com/blog/the-agentic-infra
 
 ### Hybrid AI - Running AI fully locally or as private AI in the cloud
 
-Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will met lot of **trilemmas**, so I am mapping my experiences in these projects:
+**Note:** If link in MicroLAB below is not functional, it's *currently* refurbished with an updated tech stack to a new version.
+
+Running AI inference for hundreds of users and thousands of agents at real enterprise scale is not easy at all - you will meet a lot of **trilemmas**, so I am mapping my experiences in these projects:
 
  - [localai.isnot.cheap](https://localai.isnot.cheap/) [GH](https://github.com/AISidesKicks/localai-isnot-cheap) - Local AI is not CHEAP (EDU AI LAB for tokenomics)
  - [why.hybridai.rsvp](https://why.hybridai.rsvp) [GH](https://github.com/AISidesKicks/why-hybridai-rsvp) - REALITY: 1 trillion sized model can easily cost you 1 million dollars a year!
  - [howto.hybridai.click](https://howto.hybridai.click) [GH](https://github.com/AISidesKicks/howto-hybridai-click) - Automating HybridAI on NeoCloud with Agentic Infra approach
 
-**Private AI** is these days also many times one of **HARD** requirements in meaningful **benchmarking**, **evals** or **red teaming**:
+**Private AI** is these days also many times one of **HARD** requirements in meaningful **benchmarking**, **evals** or **red teaming**, below are my technology demonstrators realised with *AI coding assistants* (I assist them) on **Local AI** or **Private AI**:
 
- - [rainbow.redoras.dev](https://rainbow.redoras.dev/) [GH](https://github.com/AISidesKicks/rainbow-redoras-dev) - I needs REDORAS: **R**apid **E**xploitation & **D**eception **O**perations for **R**esilient **A**rchitecture & **S**ystems.
+   [refeed.raptor.today/](https://refeed.raptor.today/) [GH](https://github.com/AISidesKicks/refeed-raptor-today) - Looped hybrid RAG: The cost of a second look: local models, visible traces, published metrics.
+   [truth.parallax.observer/](https://truth.parallax.observer/) [GH](https://github.com/AISidesKicks/truth.parallax.observer) - GenAI Persuasion: Four observers, four bodies of world knowledge, one RAG engine that argues the opposite of what you believe.
+   [doolally.trollino.rodeo](https://doolally.trollino.rodeo) [GH](https://github.com/AISidesKicks/doolally-trollino-rodeo) - Don't feed the trolls: a durable high-risk text classifier with local LLM + SystemOne with live GUI.
+   [mem.codedorf.dev](https://mem.codedorf.dev/) [GH](https://github.com/AISidesKicks/mem-codedorf-dev) - Deep dive into memory for AI agents: what to store, where to store it, and whether it improves the second run.
+
+<br>
+
+ - [inside.cottonbox.cc](https://inside.cottonbox.cc) [GH](https://github.com/AISidesKicks/inside-cottonbox-cc) - Sandboxing is wild: Sheep pen, Cattle pen, Paddock for horses or even Metal cage for wild animal?
+ - [mcpwith.codemode.cc](https://mcpwith.codemode.cc/) [GH](https://github.com/AISidesKicks/mcpwith-codemode-cc) - MCP is still reinventing itself: Now we are executing code inside MCP servers?
+ - [rest.graphql.win](http://rest.graphql.win/) [GH](https://github.com/AISidesKicks/rest-graphql-win) - REST and GraphQL + Code Mode: in observability together they are both clear winners (So use them BOTH!)
+ - [rainbow.redoras.dev](https://rainbow.redoras.dev/) [GH](https://github.com/AISidesKicks/rainbow-redoras-dev) - I need REDORAS: **R**apid **E**xploitation & **D**eception **O**perations for **R**esilient **A**rchitecture & **S**ystems.
+
+<br>
+
+ - [yesmom.selectia.dev](https://yesmom.selectia.dev/) [GH](https://github.com/AISidesKicks/selectia) - My family of System One-style models fine-tuned from LFM 2.5, designed for one-pass typed decisions with calibrated probabilities.
 
 ---
 
@@ -64,9 +80,9 @@ The main point of **Experiential Education** is **Learning by Doing** - this is 
 
 ### Specialized customized Agentic AI Harnesses
 
-With revelation of minimal coding agent Pi and others, we have the possibility to assemble our own LEGO-like stack to ideally fix AI applications in our real JOBs.
+With the revelation of the minimal coding agent Pi and others, we have the possibility to assemble our own LEGO-like stack to ideally fix AI applications in our real JOBs.
 
-Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create specialized architect [gritty.guidera.party](https://gritty.guidera.party) [GH](https://github.com/AISidesKicks/gritty-guidera-party)
+Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create a specialized architecture [gritty.guidera.party](https://gritty.guidera.party) [GH](https://github.com/AISidesKicks/gritty-guidera-party)
 
  - [my.pietra.dev](https://my.pietra.dev) [GH](https://github.com/AISidesKicks/my-pietra-dev) - Custom AI harness for Integration Engineers based on [PI](https://pi.dev)
  - [my.taufiq.dev](https://my.taufiq.dev) [GH](https://github.com/AISidesKicks/my-taufiq-dev) - Custom AI harness for Inference Engineers based on [TAU](https://twotimespi.dev)
@@ -74,8 +90,6 @@ Here are my setups (inspired by [lazyPI](https://lazypi.org/)) and I create spec
 
 <br>
 
- - [mcpwith.codemode.cc](https://mcpwith.codemode.cc/) [GH](https://github.com/AISidesKicks/mcpwith-codemode-cc) - MCP is still reinventing itself - now we are executing code inside MCP servers?
- - [inside.cottonbox.cc](https://inside.cottonbox.cc) [GH](https://github.com/AISidesKicks/inside-cottonbox-cc) - Sandboxing is wild: Sheep pen, Cattle pen, Paddock for horses or even Metal cage for wild animal?
 
 My work on self assembling per Domain AI Harnesses was originally inspired by NVIDIA [AVO blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) and initial Stanford research.
 
@@ -85,7 +99,7 @@ Today we see the rise of specialized [DSH (Domain Specific Harnesses)](https://g
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch-on_YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=Xxuxg8PcBvc)
 
-Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, my [hermess agent](https://github.com/nousresearch/hermes-agent) to proactively research this topic for me:
+Today we see a lot of NEW works about AI Harnesses, so I instruct **Hermine**, my [hermes agent](https://github.com/nousresearch/hermes-agent) to proactively research this topic for me:
 
  - [AVO: Agentic Variation Operators for Autonomous Evolutionary Search (arxiv:2603.24517 - 25 Mar 2026)](https://arxiv.org/abs/2603.24517)
 
