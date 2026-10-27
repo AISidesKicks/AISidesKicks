@@ -46,10 +46,10 @@ Running AI inference for hundreds of users and thousands of agents at real enter
 
 **Private AI** is these days also many times one of **HARD** requirements in meaningful **benchmarking**, **evals** or **red teaming**, below are my technology demonstrators realised with *AI coding assistants* (I assist them) on **Local AI** or **Private AI**:
 
-   [refeed.raptor.today/](https://refeed.raptor.today/) [GH](https://github.com/AISidesKicks/refeed-raptor-today) - Looped hybrid RAG: The cost of a second look: local models, visible traces, published metrics.
-   [truth.parallax.observer/](https://truth.parallax.observer/) [GH](https://github.com/AISidesKicks/truth.parallax.observer) - GenAI Persuasion: Four observers, four bodies of world knowledge, one RAG engine that argues the opposite of what you believe.
-   [doolally.trollino.rodeo](https://doolally.trollino.rodeo) [GH](https://github.com/AISidesKicks/doolally-trollino-rodeo) - Don't feed the trolls: a durable high-risk text classifier with local LLM + SystemOne with live GUI.
-   [mem.codedorf.dev](https://mem.codedorf.dev/) [GH](https://github.com/AISidesKicks/mem-codedorf-dev) - Deep dive into memory for AI agents: what to store, where to store it, and whether it improves the second run.
+ - [refeed.raptor.today/](https://refeed.raptor.today/) [GH](https://github.com/AISidesKicks/refeed-raptor-today) - Looped hybrid RAG: The cost of a second look: local models, visible traces, published metrics.
+ - [truth.parallax.observer/](https://truth.parallax.observer/) [GH](https://github.com/AISidesKicks/truth.parallax.observer) - GenAI Persuasion: Four observers, four bodies of world knowledge, one RAG engine that argues the opposite of what you believe.
+ - [doolally.trollino.rodeo](https://doolally.trollino.rodeo) [GH](https://github.com/AISidesKicks/doolally-trollino-rodeo) - Don't feed the trolls: a durable high-risk text classifier with local LLM + SystemOne with live GUI.
+ - [mem.codedorf.dev](https://mem.codedorf.dev/) [GH](https://github.com/AISidesKicks/mem-codedorf-dev) - Deep dive into memory for AI agents: what to store, where to store it, and whether it improves the second run.
 
 <br>
 
